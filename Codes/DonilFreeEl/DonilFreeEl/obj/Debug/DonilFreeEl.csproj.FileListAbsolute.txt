@@ -1,0 +1,109 @@
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+F:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+G:\FreeEl2codesample\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+G:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BagsOfWordsUsercontrol.resources
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.FileDividerUserControl.resources
+C:\donilfiles\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TestdataUserControl1.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BagsOfWordsUsercontrol.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.FileDividerUserControl.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TestdataUserControl1.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+E:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BOW.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BagsOfWordsUsercontrol.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BOW.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.FileDividerUserControl.resources
+F:\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TestdataUserControl1.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BagsOfWordsUsercontrol.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BOW.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.FileDividerUserControl.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TestdataUserControl1.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+C:\Users\Admin\Desktop\FreeEl2codesample\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe.config
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.exe
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.pdb
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.exe
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\bin\Debug\DonilFreeEl.pdb
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csprojResolveAssemblyReference.cache
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.ArticleClassifierUserControl.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BagsOfWordsUsercontrol.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.BOW.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.FileDividerUserControl.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Form1.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.Properties.Resources.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TestdataUserControl1.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.TextCleaningUserControl.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.csproj.GenerateResource.Cache
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.MachineProb.resources
+C:\Users\Donil Ponce\Desktop\FreeEl2Project\Codes\DonilFreeEl\DonilFreeEl\obj\Debug\DonilFreeEl.UserInputText.resources
